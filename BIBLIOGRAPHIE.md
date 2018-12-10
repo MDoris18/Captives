@@ -1,6 +1,8 @@
-BIBLIOGRAPHIE
+#H1BIBLIOGRAPHIE#
 
-WEB : 
+
+**WEB :** 
+
 
 Justice.Belgium -[«Prisons belges»](https://justice.belgium.be/fr/themes_et_dossiers/prisons/prisons_belges)
 
@@ -33,11 +35,13 @@ CCSP - [« Projet photographique sur les murs de la prison de Saint-Gilles »]
 Anne Chereul [« Sortir les personnes détenues de cette image dégradée d’eux-mêmes »](https://blogs.mediapart.fr/observatoire-international-des-prisons-section-francaise/blog/300516/sortir-les-personnes-detenues-de-cette-image-degradee)
 
 
-VIDEO : 
+**VIDEO :**
+
 
 Arte - [« Kreatur No.3 Justice pour les femmes »](https://www.arte.tv/fr/videos/084820-001-A/kreatur-no-3/)
 
-PUBLICATIONS : 
+
+**PUBLICATIONS :**
 
 Barricade - [« Paroles / Détenues »](http://www.barricade.be/publications/analyses-etudes/paroles-detenues)
 
@@ -53,7 +57,8 @@ La ligue des familles ASBL, SLAJ-V - « Dessine-moi une prison » 2018
 
 La ligue des familles ASBL, SLAJ-V - « Derrière les murs » 2018
 
-OUVRAGES : 
+
+**OUVRAGES :**
 
 
 ASBL Autrement - «L’enfer me ment» 2007
@@ -86,7 +91,8 @@ Rostaing Corinne - « La relation carcérale, identités et rapports sociaux da
 
 Trinquier Christel - « Femmes en prison » 1997
 
-ASBL & SOUTIEN:
+
+**ASBL & SOUTIEN:**
 
  
 [Après](http://www.apresasbl.be/)
