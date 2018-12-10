@@ -3,8 +3,8 @@ BIBLIOGRAPHIE
 WEB : 
 
 Justice.Belgium -[«Prisons belges»](https://justice.belgium.be/fr/themes_et_dossiers/prisons/prisons_belges)
-Justice.Belgium - «Masterplan 2008-2012-2016» https://justice.belgium.be/fr/nouvelles/communiques_de_presse/news_pers_2011-03-23_1
-OIP - «section belge» http://oipbelgique.be/fr/
+Justice.Belgium - [«Masterplan 2008-2012-2016»](https://justice.belgium.be/fr/nouvelles/communiques_de_presse/news_pers_2011-03-23_1)
+OIP - [«section belge»](http://oipbelgique.be/fr/)
 7sur7 - «Les femmes «oubliées» du système pénitentiaire belge» http://www.7sur7.be/7s7/fr/1517/You/article/detail/3408275/2018/04/11/Les-femmes-oubliees-du-systeme-penitentiaire-belge.dhtml
 Katia Rouff - «La prison : et après ? Pour que la punition s’arrête à la sortie» https://www.lien-social.com/La-prison-et-apres-Pour-que-la-punition-s-arrete-a-la-sortie
 Leslie Rijmenams - «Inside-out» http://www.nostalgie.be/articles/inside-out-quand-des-prisonniers-font-un-film-avec.html
