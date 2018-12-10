@@ -3,10 +3,7 @@ BIBLIOGRAPHIE
 WEB : 
 
 Justice.Belgium -[«Prisons belges»](https://justice.belgium.be/fr/themes_et_dossiers/prisons/prisons_belges)
-<<<<<<< HEAD
 
-=======
->>>>>>> master
 Justice.Belgium - [«Masterplan 2008-2012-2016»](https://justice.belgium.be/fr/nouvelles/communiques_de_presse/news_pers_2011-03-23_1)
 
 OIP - [«section belge»](http://oipbelgique.be/fr/)
@@ -37,62 +34,81 @@ Anne Chereul [« Sortir les personnes détenues de cette image dégradée d’eu
 
 
 VIDEO : 
+
 Arte - [« Kreatur No.3 Justice pour les femmes »](https://www.arte.tv/fr/videos/084820-001-A/kreatur-no-3/)
 
 PUBLICATIONS : 
+
 Barricade - [« Paroles / Détenues »](http://www.barricade.be/publications/analyses-etudes/paroles-detenues)
+
 Adeppi - [« Oxygène »](https://www.adeppi.be/journal-oxygene)
+
 Citad’elles - [« le féminin sans barreaux »](http://www.citadelles.org/magazines/)
+
 Culture et démocratie - [« CAVERNE ET DÉMOCRATIE - Sur la prison, le travail social et les pratiques artistiques »](http://www.cultureetdemocratie.be/documents/Art_et_prison/Caverne_et_democratie_2015.pdf)
+
 ARC, FAMD - « Pris’en conte » 2017-18
+
 La ligue des familles ASBL, SLAJ-V - « Dessine-moi une prison » 2018
+
 La ligue des familles ASBL, SLAJ-V - « Derrière les murs » 2018
 
 OUVRAGES : 
 
 
 ASBL Autrement - «L’enfer me ment» 2007
+
 Atwood Jane Evelyn - «trop de peine. Femmes en prison» 2000
+
 Cattier Yvonne- « Miroir des ombres, chronique d’un atelier créatif dans une prison de femmes » 1994
+
 Dérivations, pour le débat urbain N°5 Décembre 2017
+
 De Cock JAN - « Des prisons comme hôtels » 2008
+
 Girardin-Gantier Odile- « D’autres limites à la prison, comment l’Art-thérapie peut aider à supporter le monde carcéral » 2018
+
 Godelet Josina - « journal de bord d’une détenue » 2013
+
 Joël Myriam- « La sexualité en prison de femmes » 2017
+
 Legendre Caroline, Portelli Serge, Maire Olivia, Carlier Christian - « création et prison » 1994
+
 Laflaquière Philippe - « longues peines, le pari de la réinsertion » 2013
+
 OIP - «Passés par la case prison» 2014
+
 Pittet Christophe - « De l’ombre à la lumière, la photographie comme outil de création du lien social, récit de quatre femmes en prison » 2002
+
 Portelli Serge, Chanel Marine - « la vie après la peine » 2014
+
 Rostaing Corinne - « La relation carcérale, identités et rapports sociaux dans les prisons de femmes » 1997
+
 Trinquier Christel - « Femmes en prison » 1997
 
 ASBL & SOUTIEN:
-<<<<<<< HEAD
+
  
 [Après](http://www.apresasbl.be/)
-[Communauté française de Belgique - «aide aux détenus»](http://www.aidedetenus.cfwb.be/accueil.asp)
-[Parcours de femmes](http://parcoursdefemmes.free.fr/)
-[Guide social](https://www.guidesocial.be/)
-[Ban public](http://prison.eu.org/)
-[CAAP](http://caap.be/)
-[Journée nationales de la prison](http://www.jnp-ndg.be/index.php/fr)
-[Citad’elles](http://www.citadelles.org/)
-[Art et prison](http://www.artetprison.be/vertige/)
-[Adeppi](https://www.adeppi.be/)
-[Expression carcérale](https://www.expressioncarcerale.fr/)
-=======
 
-Communauté française de Belgique - «aide aux détenus» 
-Après http://www.apresasbl.be/
-http://www.aidedetenus.cfwb.be/accueil.asp
-http://parcoursdefemmes.free.fr/
-https://www.guidesocial.be/
-Ban public http://prison.eu.org/
-CAAP http://caap.be/
-Journée nationales de la prison http://www.jnp-ndg.be/index.php/fr
-Citad’elles http://www.citadelles.org/
-Art et prison http://www.artetprison.be/vertige/
-Adeppi https://www.adeppi.be/
-Expression carcérale https://www.expressioncarcerale.fr/
->>>>>>> master
+[Communauté française de Belgique - «aide aux détenus»](http://www.aidedetenus.cfwb.be/accueil.asp)
+
+[Parcours de femmes](http://parcoursdefemmes.free.fr/)
+
+[Guide social](https://www.guidesocial.be/)
+
+[Ban public](http://prison.eu.org/)
+
+[CAAP](http://caap.be/)
+
+[Journée nationales de la prison](http://www.jnp-ndg.be/index.php/fr)
+
+[Citad’elles](http://www.citadelles.org/)
+
+[Art et prison](http://www.artetprison.be/vertige/)
+
+[Adeppi](https://www.adeppi.be/)
+
+[Expression carcérale](https://www.expressioncarcerale.fr/)
+
+
