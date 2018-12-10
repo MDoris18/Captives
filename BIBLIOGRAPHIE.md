@@ -3,7 +3,10 @@ BIBLIOGRAPHIE
 WEB : 
 
 Justice.Belgium -[«Prisons belges»](https://justice.belgium.be/fr/themes_et_dossiers/prisons/prisons_belges)
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 Justice.Belgium - [«Masterplan 2008-2012-2016»](https://justice.belgium.be/fr/nouvelles/communiques_de_presse/news_pers_2011-03-23_1)
 
 OIP - [«section belge»](http://oipbelgique.be/fr/)
@@ -65,6 +68,7 @@ Rostaing Corinne - « La relation carcérale, identités et rapports sociaux da
 Trinquier Christel - « Femmes en prison » 1997
 
 ASBL & SOUTIEN:
+<<<<<<< HEAD
  
 [Après](http://www.apresasbl.be/)
 [Communauté française de Belgique - «aide aux détenus»](http://www.aidedetenus.cfwb.be/accueil.asp)
@@ -77,3 +81,18 @@ ASBL & SOUTIEN:
 [Art et prison](http://www.artetprison.be/vertige/)
 [Adeppi](https://www.adeppi.be/)
 [Expression carcérale](https://www.expressioncarcerale.fr/)
+=======
+
+Communauté française de Belgique - «aide aux détenus» 
+Après http://www.apresasbl.be/
+http://www.aidedetenus.cfwb.be/accueil.asp
+http://parcoursdefemmes.free.fr/
+https://www.guidesocial.be/
+Ban public http://prison.eu.org/
+CAAP http://caap.be/
+Journée nationales de la prison http://www.jnp-ndg.be/index.php/fr
+Citad’elles http://www.citadelles.org/
+Art et prison http://www.artetprison.be/vertige/
+Adeppi https://www.adeppi.be/
+Expression carcérale https://www.expressioncarcerale.fr/
+>>>>>>> master
