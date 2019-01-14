@@ -31,6 +31,7 @@ Comment «l’expression artistique» peut-elle améliorer la réinsertion post-
 1. Système pénitentiaire belge
 
 	1.1 L'organisation du système pénitentiaire
+	
 Maison de peines 
 Maison d’arrêt
 Régime ouvert
@@ -38,6 +39,7 @@ Régime fermé
 Régime semi-ouvert
 
 	1.2 Les établissement pénitentiaires
+	
 34 établissements 
 Quartiers pour  femmes
 Etablissements pour femmes
@@ -45,6 +47,7 @@ EDS
 Centres de psychiatrie 
 
 	1.3 La population carcérale
+	
 En général
 Les femmes
 Les mineurs
@@ -75,6 +78,7 @@ Les malades et les personnes handicapées
 
 	4.1 Champ d’actions 
 	4.2 Etablissements
+	
 Merksplas
 St-Gilles
 Tongres
