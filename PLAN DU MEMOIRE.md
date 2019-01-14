@@ -1,4 +1,4 @@
-##Plan de Mémoire :##
+**Plan de Mémoire :**
 
 Comment «l’expression artistique» peut-elle améliorer la réinsertion post-carcérale des femmes, en Belgique ?
 
@@ -43,6 +43,7 @@ Quartiers pour  femmes
 Etablissements pour femmes
 EDS
 Centres de psychiatrie 
+
 	1.3 La population carcérale
 En général
 Les femmes
@@ -66,14 +67,14 @@ Les malades et les personnes handicapées
 	3.1 Rénovation et agrandissement
 	3.2 Remplacements des établissements 
 	3.3 Constructions
-3.4 critique du Masterplan
+	3.4 critique du Masterplan
 
 4. Centres de réinsertions
 
 	En Belgique, il y a des centres pénitenciers spécifiquement axés vers la réinsertion. Tout y est pensé dans ce but et leurs champs d’actions est assez large. Ce sont des structures très intéressantes à analyser pour mon projet, d’autant plus qu’à l’heure actuelle ces centres sont entièrement fermés aux femmes, alors que c’est une grande avancée pour la réinsertion post-carcérale.
 
-4.1 Champ d’actions 
-4.2 Etablissements
+	4.1 Champ d’actions 
+	4.2 Etablissements
 Merksplas
 St-Gilles
 Tongres
@@ -125,13 +126,11 @@ Maternité en détention
 	3.1 Ecriture et littérature
 
 	3.2 Arts visuels 
-
 Peinture et dessin
 Photographie
 Graphisme
 
 	3.3 Arts de la scène
-
 Théâtre
 Chant et musique 
 Danse 
