@@ -51,45 +51,45 @@ Citad’elles - [« le féminin sans barreaux »](http://www.citadelles.org/mag
 
 Culture et démocratie - [« CAVERNE ET DÉMOCRATIE - Sur la prison, le travail social et les pratiques artistiques »](http://www.cultureetdemocratie.be/documents/Art_et_prison/Caverne_et_democratie_2015.pdf)
 
-ARC, FAMD - « Pris’en conte » 2017-18
+ARC, FAMD - [« Pris’en conte » 2017-18](http://www.jnp-ndg.be/index.php/fr/)
 
-La ligue des familles ASBL, SLAJ-V - « Dessine-moi une prison » 2018
+La ligue des familles ASBL, SLAJ-V - [« Dessine-moi une prison » 2018](http://www.jnp-ndg.be/index.php/fr/)
 
-La ligue des familles ASBL, SLAJ-V - « Derrière les murs » 2018
+La ligue des familles ASBL, SLAJ-V - [« Derrière les murs » 2018](http://www.jnp-ndg.be/index.php/fr/)
 
 
 **OUVRAGES :**
 
 
-ASBL Autrement - «L’enfer me ment» 2007
+ASBL Autrement - [«L’enfer me ment» 2007](https://www.cultura.com/l-enfer-me-ment-9782916249094.html)
 
-Atwood Jane Evelyn - «trop de peine. Femmes en prison» 2000
+Atwood Jane Evelyn - [«trop de peine. Femmes en prison» 2000](https://www.librairiepax.be/livre/9782226112361-trop-de-peines-femmes-en-prison-veronique-petit/)
 
-Cattier Yvonne- « Miroir des ombres, chronique d’un atelier créatif dans une prison de femmes » 1994
+Cattier Yvonne- [« Miroir des ombres, chronique d’un atelier créatif dans une prison de femmes » 1994](https://livre.fnac.com/a19075/Yvonne-Catier-Miroir-des-ombres)
 
-Dérivations, pour le débat urbain N°5 Décembre 2017
+[Dérivations, pour le débat urbain N°5 Décembre 2017](https://derivations.be/archives/numero-5/)
 
-De Cock JAN - « Des prisons comme hôtels » 2008
+De Cock JAN - [« Des prisons comme hôtels » 2008](http://opac.provincedeliege.be/F/ATQHVVYE57MMDLCVNMNU78575L7TMNYYBVL1H7VRPETPXPJ8PX-14268?func=find-b&local_base=PLG01&find_code=WRD&request=des+prisons+comme+h%C3%B4tel&adjacent=N&filter_code_1=WLA&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WSP&filter_request_4=&filter_code_5=WBI&filter_request_5=&filter_code_6=WGRO&filter_request_6=)
 
-Girardin-Gantier Odile- « D’autres limites à la prison, comment l’Art-thérapie peut aider à supporter le monde carcéral » 2018
+Girardin-Gantier Odile- [« D’autres limites à la prison, comment l’Art-thérapie peut aider à supporter le monde carcéral » 2018](https://www.librairiepax.be/livre/9782343138275-d-autres-limites-a-la-prison-comment-l-art-therapie-peut-aider-a-supporter-le-monde-carceral-odile-girardin-gantier/)
 
-Godelet Josina - « journal de bord d’une détenue » 2013
+Godelet Josina - [« journal de bord d’une détenue » 2013](https://www.librairiepax.be/livre/9782332593122-journal-de-bord-d-une-detenue-josina-godelet/)
 
-Joël Myriam- « La sexualité en prison de femmes » 2017
+Joël Myriam- [« La sexualité en prison de femmes » 2017](http://opac.provincedeliege.be/F/ATQHVVYE57MMDLCVNMNU78575L7TMNYYBVL1H7VRPETPXPJ8PX-16207?func=find-b&local_base=PLG01&find_code=WRD&request=la+sexualit%C3%A9+en+prison+de+femmes&adjacent=N&filter_code_1=WLA&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WSP&filter_request_4=&filter_code_5=WBI&filter_request_5=&filter_code_6=WGRO&filter_request_6=)
 
-Legendre Caroline, Portelli Serge, Maire Olivia, Carlier Christian - « création et prison » 1994
+Legendre Caroline, Portelli Serge, Maire Olivia, Carlier Christian - [« création et prison » 1994](https://books.google.be/books?id=1OvawnHMvxMC&pg=PT9&lpg=PT9&dq=Cr%C3%A9ation+et+prison+:+%5Bactes+du+colloque,+avril+1993,+Cr%C3%A9teil%5D&source=bl&ots=QYoXshHT66&sig=Z69vikslI9_IXmOvk_YoTuOyePU&hl=fr&sa=X&ved=2ahUKEwjRsoz174bfAhVSaBoKHdXcD9sQ6AEwBXoECAQQAQ#v=onepage&q=Cr%C3%A9ation%20et%20prison%20%3A%20%5Bactes%20du%20colloque%2C%20avril%201993%2C%20Cr%C3%A9teil%5D&f=false)
 
-Laflaquière Philippe - « longues peines, le pari de la réinsertion » 2013
+Laflaquière Philippe - [« longues peines, le pari de la réinsertion » 2013](http://opac.provincedeliege.be/F/ATQHVVYE57MMDLCVNMNU78575L7TMNYYBVL1H7VRPETPXPJ8PX-31572?func=full-set-set&set_number=008942&set_entry=000003&format=999)
 
-OIP - «Passés par la case prison» 2014
+OIP - [«Passés par la case prison» 2014](https://www.librairiepax.be/livre/9782707183286-passes-par-la-case-prison-collectif/)
 
-Pittet Christophe - « De l’ombre à la lumière, la photographie comme outil de création du lien social, récit de quatre femmes en prison » 2002
+Pittet Christophe - [« De l’ombre à la lumière, la photographie comme outil de création du lien social, récit de quatre femmes en prison » 2002](https://www.amazon.fr/lombre-lumi%C3%A8re-photographie-cr%C3%A9ation-social/dp/2882240600/ref=sr_1_1?ie=UTF8&qid=1547466261&sr=8-1&keywords=De+l%E2%80%99ombre+%C3%A0+la+lumi%C3%A8re%2C+la+photographie+comme+outil+de+cr%C3%A9ation+du+lien+social%2C+r%C3%A9cit+de+quatre+femmes+en+prison)
 
-Portelli Serge, Chanel Marine - « la vie après la peine » 2014
+Portelli Serge, Chanel Marine - [« la vie après la peine » 2014](http://opac.provincedeliege.be/F/ATQHVVYE57MMDLCVNMNU78575L7TMNYYBVL1H7VRPETPXPJ8PX-22150?func=full-set-set&set_number=008953&set_entry=000006&format=999)
 
-Rostaing Corinne - « La relation carcérale, identités et rapports sociaux dans les prisons de femmes » 1997
+Rostaing Corinne - [« La relation carcérale, identités et rapports sociaux dans les prisons de femmes » 1997](http://opac.provincedeliege.be/F/ATQHVVYE57MMDLCVNMNU78575L7TMNYYBVL1H7VRPETPXPJ8PX-22586?func=find-b&local_base=PLG01&find_code=WRD&request=La+relation+carc%C3%A9rale%2C+identit%C3%A9s+et+rapports+sociaux+dans+les+prisons+de+femmes&adjacent=N&filter_code_1=WLA&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WSP&filter_request_4=&filter_code_5=WBI&filter_request_5=&filter_code_6=WGRO&filter_request_6=)
 
-Trinquier Christel - « Femmes en prison » 1997
+Trinquier Christel - [« Femmes en prison » 1997](https://www.amazon.fr/Femmes-en-prison-Christel-Trinquier/dp/2862745340/ref=sr_1_1?s=books&ie=UTF8&qid=1547466354&sr=1-1&keywords=Trinquier+Christel)
 
 
 **ASBL & SOUTIEN:**
