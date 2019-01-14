@@ -30,7 +30,7 @@ Comment «l’expression artistique» peut-elle améliorer la réinsertion post-
 
 1. Système pénitentiaire belge
 
-1.1 L'organisation du système pénitentiaire
+	1.1 L'organisation du système pénitentiaire
 Maison de peines 
 Maison d’arrêt
 Régime ouvert
@@ -84,7 +84,7 @@ Centre pénitentiaire agricole de Ruiselede
 
 **Le statut des femmes** 
 
-1.Statut des détenues 
+1. Statut des détenues 
 
 	Dans cette partie j’aimerais revenir sur la détenue, directement: comment le système belge traite ses prisonnières. D’abord d’un point de vue technique, les statistiques, les causes et raisons de l’enfermement. Ensuite, d’un point de vue plus «humain» concernant directement les problèmes féminins, tel que les grossesses etc.
 
@@ -94,14 +94,14 @@ Violence et harcélement
 Maternité en détention
 
 
-2.Inégalités du système pénitentiaire
+2. Inégalités du système pénitentiaire
 
 	Le système comporte beaucoup d’inégalités, vis-à-vis des peines infligées directement mais aussi des infrastructures et des adaptations. Mon but dans ce chapitre est d’en faire une liste complète afin que mon lecteur se rende compte de la condition de la femme dans ce système particulier.
 
 	2.1 Infrastructure (par et pour des hommes) 
 	2.2 Droit
 
-3.Inégalités du système de réinsertion
+3. Inégalités du système de réinsertion
 
 	Il existe un système de réinsertion en Belgique, il n’est certes pas idéal mais il est là. Cependant, une fois de plus il n’y a pas de place pour la femme dans celui-ci. Il n’est pas du tout adapté et s’attache peu à la question. Il m’est donc indispensable dans ce chapitre d’aborder ce point et comme pour le système pénitentiaire d’en décrypter les rouages et de l’expliquer.
 
@@ -135,13 +135,12 @@ Théâtre
 Chant et musique 
 Danse 
 
-**4. Présentation des ASBL**
+4. Présentation des ASBL
 
 	Il existe partout en Belgique des ASBL qui traite des droits des prisonniers et qui mettent en place des aides pour la réinsertion post-carcérale. Derrière ces ASBL se trouvent des personnes que je dois rencontrer dans le cadre de mon travail et qu’il m’est indispensable de présenter pour avoir une couverture optimale du sujet. 
 
-4.1 CAAP
-	 
-**5. Témoignages** 
+	
+5. Témoignages
 
 	Cette partie concerne directement les détenu(e)s et ex-détenu(e)s. Dans mon travail, je veux directement travailler avec eux et avoir leurs avis et témoignages sur la question de la réinsertion. C’est grâce à ces témoignages que je pourrais mettre en place un projet parallèle à mon mémoire.
 
