@@ -4,6 +4,6 @@ C'est la problématique de mon mémoire. Etudiante en dernière année de commun
 l’estime de soi. Je vais réaliser ce travail grâce à la méthodologie du design social, à l’aide d’ateliers créatifs (et à
 terme, de mon côté créer un objet graphique découlant de ces ateliers visant à encourager ces même valeurs)
 
-Je rassemble ici la totatlité des éléments liés à ce travail. D'un point de vue théorique, et graphique. Si je publie ces informations c'est parce que j'inscrit mon travail et ma méthodologie dans une logique open-source et que le partager est important pour moi. 
+Je rassemble ici la totalité des éléments liés à ce travail. D'un point de vue théorique, et graphique. Si je publie ces informations c'est parce que j'inscrit mon travail et ma méthodologie dans une logique open-source et que le partager est important pour moi. 
 
 
