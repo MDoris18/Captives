@@ -1,0 +1,99 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SarmillaScript
+FamilyName:Sarmilla Script
+StyleName:Regular
+MenuName:Sarmilla Script
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sarmilla Script
+WritingScript:Roman
+OutlineFileName:\Sarmilla Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:54368
+FileModTime:1544431344
+NameArray:0,Mac,18,Sarmilla Script
+NameArray:0,Mac,4,Sarmilla Script
+NameArray:0,Win,1,Sarmilla Script
+NameArray:0,Win,16,Sarmilla Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BigCaslon-Medium
+FamilyName:Big Caslon
+StyleName:Medium
+MenuName:Big Caslon
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Big Caslon Medium
+WritingScript:Roman
+OutlineFileName:\BigCaslon.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:223272
+FileModTime:1534550300
+NameArray:0,Mac,4,Big Caslon Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FengardoNeue
+FamilyName:Fengardo Neue
+StyleName:Regular
+MenuName:Fengardo Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FengardoNeue
+WritingScript:Roman
+OutlineFileName:\FengardoNeue_Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:47684
+FileModTime:1331486718
+NameArray:0,Mac,4,FengardoNeue
+NameArray:0,Win,1,Fengardo Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1541433616
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

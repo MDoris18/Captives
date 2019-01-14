@@ -1,0 +1,1 @@
+Les portraits chinois sont la toute première partie du travail. Grâce à eux, j'ai pu avoir un premier contact avec les détenues et j'ai récolté des éléments qui m'ont permis de concevoir les carnets personnalisés. Grâce à eux j'ai pu faire du sur-mesure, ce qui a permis une individualisation et une réhumanisation de l'individu, ça a été très très bien reçu par les détenues 

@@ -1,0 +1,1 @@
+Dans la partie "téléchargeable" du projet on retrouve les questionnaires que j'ai utilisé pour réaliser l'enquête de terrain du mémoire. On y retrouve également les protocoles des ateliers réalisé en prison et une banque d'images utilisée pour ces ateliers. Le tout est réutilisable et adaptable avec un autre public

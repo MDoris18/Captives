@@ -1,0 +1,1 @@
+Je présente ici les 6 carnets personnalisés réalisé pour les détenues. La mise en page est toujours la même je change les éléments en fonction des réponses obtenues dans les carnets. Ainsi je place un graphisme hyper épuré lié aux envies des détenues et je crée un outil qui va permettre à la déténue de créer en cellule, et de s'approprier l'objet.

@@ -1,0 +1,1 @@
+Dans cette partie "production" j'ai placé des images des réalisations des détenues lors des ateliers. Au jour de l'examen, il y aura eu deux ateliers de fait, dont un le matin même et donc seulement les résultats du premier atelier en ligne. 
