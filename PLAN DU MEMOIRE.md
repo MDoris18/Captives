@@ -31,33 +31,53 @@ Comment «l’expression artistique» peut-elle améliorer la réinsertion post-
 1. Système pénitentiaire belge
 
 	1.1 L'organisation du système pénitentiaire
+	
 Maison de peines 
+
 Maison d’arrêt
+
 Régime ouvert
+
 Régime fermé
+
 Régime semi-ouvert
 
-	1.2 Les établissement pénitentiaires
+   1.2 Les établissements pénitentiaires
+	
 34 établissements 
+
 Quartiers pour  femmes
+
 Etablissements pour femmes
+
 EDS
+
 Centres de psychiatrie 
 
-	1.3 La population carcérale
+   1.3 La population carcérale
+   
 En général
+
 Les femmes
+
 Les mineurs
+
 Les étrangers
+
 Les minorités ethniques et religieuses
+
 Les personnes LGBTI
+
 Les personnes âgées
+
 Les malades et les personnes handicapées
 
 2. Système de réinsertion post-carcérale
 
 	2.1 L’aménagement de peines
+	
 	2.2 L’accès au droit 
+	
 	2.3 MNP
 
 3. Masterplan 2008-2012-2016
@@ -65,8 +85,11 @@ Les malades et les personnes handicapées
 	Le masterplan 2008-2012-2016 est un plan qui vise une infrastructure pénitentiaire dans des conditions humaines. Les centres pénitenciers qui rentrent dans ce masterplan sont donc des prisons plus ouvertes et surtout plus ouvertes vers le social et la réinsertion. La prison de Marche-En-Famenne où j’ai réalisé mon TFE en fait partie et j’ai donc pu constater ce système. Ce désir de conditions humaines se ressent aussi bien dans l’architecture que dans le fonctionnement et ils sont plus axés vers la réinsertion c’est pourquoi il est important d’aborder ce sujet 
 
 	3.1 Rénovation et agrandissement
+	
 	3.2 Remplacements des établissements 
+	
 	3.3 Constructions
+	
 	3.4 critique du Masterplan
 
 4. Centres de réinsertions
@@ -74,12 +97,19 @@ Les malades et les personnes handicapées
 	En Belgique, il y a des centres pénitenciers spécifiquement axés vers la réinsertion. Tout y est pensé dans ce but et leurs champs d’actions est assez large. Ce sont des structures très intéressantes à analyser pour mon projet, d’autant plus qu’à l’heure actuelle ces centres sont entièrement fermés aux femmes, alors que c’est une grande avancée pour la réinsertion post-carcérale.
 
 	4.1 Champ d’actions 
+	
 	4.2 Etablissements
+	
 Merksplas
+
 St-Gilles
+
 Tongres
+
 St-Hubert
+
 Marneffe 
+
 Centre pénitentiaire agricole de Ruiselede
 
 **Le statut des femmes** 
@@ -89,8 +119,11 @@ Centre pénitentiaire agricole de Ruiselede
 	Dans cette partie j’aimerais revenir sur la détenue, directement: comment le système belge traite ses prisonnières. D’abord d’un point de vue technique, les statistiques, les causes et raisons de l’enfermement. Ensuite, d’un point de vue plus «humain» concernant directement les problèmes féminins, tel que les grossesses etc.
 
 	1.1 Intégrité physique
+	
 Hygiène 
+
 Violence et harcélement
+
 Maternité en détention
 
 
@@ -99,6 +132,7 @@ Maternité en détention
 	Le système comporte beaucoup d’inégalités, vis-à-vis des peines infligées directement mais aussi des infrastructures et des adaptations. Mon but dans ce chapitre est d’en faire une liste complète afin que mon lecteur se rende compte de la condition de la femme dans ce système particulier.
 
 	2.1 Infrastructure (par et pour des hommes) 
+	
 	2.2 Droit
 
 3. Inégalités du système de réinsertion
@@ -130,7 +164,7 @@ Peinture et dessin
 Photographie
 Graphisme
 
-	3.3 Arts de la scène
+   3.3 Arts de la scène
 Théâtre
 Chant et musique 
 Danse 
